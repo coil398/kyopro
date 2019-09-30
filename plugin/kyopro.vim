@@ -4,4 +4,4 @@ endif
 
 let g:loaded_kyopro = 1
 
-command! Kyopro call kyopro#hello_world()
+command! Kyopro call kyopro#run()
